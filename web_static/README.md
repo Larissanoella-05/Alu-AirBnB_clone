@@ -27,14 +27,14 @@ Welcome to the Web Static Airbnb Clone Project! This project aims to replicate t
 1. Clone the Repository
 
 ```
-git clone https://github.com/pimanzi/alu-AirBnB_clone.git
+git clone https://github.comlarissanoella-05/alu-AirBnB_clone.git
 
 ```
 
 2. Navigate to the Project Directory
 
 ```
-cd alu-AirBnB_CLONE
+cd alu-AirBnB_clone
 ```
 
 3. Navigate to web_static Directory
@@ -59,6 +59,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 # Author
 
-Imanzi Kabisa Placide
+Lariss Shimirwa 
 
 _Happy Coding_
